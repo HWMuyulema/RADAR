@@ -41,11 +41,27 @@ generaremos un algoritmo propuesto pro Toan et al. 1997 para evaluar la clasific
 
 ![arroz](https://github.com/HWMuyulema/RADAR/blob/master/img/estadios_arroz.png)
 
+los valores del umbral minimo y el rango son calculados con las imágenes estos dos el el pixel del transplante y el desarrollo asumiendo que tiene un coeficiente de  retrodipersión menor que cierto umbral mínimo y mayor que cierto umbral del rango 
+de donde el rango es el valor calculado con al resta entre el max y el min valor [3.pag466)
+
+## Preprocesado 
+en el paso numeros digitales a gamma - niught (dB) se resampleo la imagen con el algoritmo de vecinos cercanos, se limpio con un filtro de 3x3 
+
+## otros 
+en la pag 169 de 3 nos habla de la robustes de VH 
+## conclusiones 
+entre las conclusioens son que el min dB es -2o y el rango es 3 
+
+## otro escrito
+plantea hacer un calendario de inundaciones [4]
 
 
 # Bibliografia
 [Analisis temporal 2004](https://www.dropbox.com/home/RADAR%20RICE?preview=10.1007%252FBF03030862.pdf)
 
 ASIA-RICE[2](http://asia-rice.org/files/2016_Asia-RiCE_Phase2_Work_Plan_v1.0.pdf)
+[3. algoritmo arroz SAR](https://www.dropbox.com/home/RADAR%20RICE?preview=10.1007%252Fs10333-015-0515-x.pdf)
+
+[4](https://www.researchgate.net/publication/313279281_Monitoring_Rice_Agriculture_across_Myanmar_Using_Time_Series_Sentinel-1_Assisted_by_Landsat-8_and_PALSAR-2)
 
 
