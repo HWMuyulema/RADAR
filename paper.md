@@ -38,6 +38,11 @@ entre las metas que se quieren lograr es la de estandarizar in situ  son los pro
 | Rendimeinto / producción Estimación* y pronostico | Estimación de modelos empiricos - estadísticos; simulación de modelos estimados de crecimientode cultivo |  [2,pag 7](http://asia-rice.org/files/2016_Asia-RiCE_Phase2_Work_Plan_v1.0.pdf)
 
 generaremos un algoritmo propuesto pro Toan et al. 1997 para evaluar la clasificación exacta y umbrales basados en el dato de la tierra de cada paracela enlas areas de cultivo, también conmparamos los resultados  de las polarizaciones VV y VH, adempas los umbrales mínimos 
+
+![arroz](../img/estadios_arroz.png)
+
+
+
 # Bibliografia
 [Analisis temporal 2004](https://www.dropbox.com/home/RADAR%20RICE?preview=10.1007%252FBF03030862.pdf)
 
