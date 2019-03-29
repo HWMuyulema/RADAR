@@ -39,7 +39,7 @@ entre las metas que se quieren lograr es la de estandarizar in situ  son los pro
 
 generaremos un algoritmo propuesto pro Toan et al. 1997 para evaluar la clasificación exacta y umbrales basados en el dato de la tierra de cada paracela enlas areas de cultivo, también conmparamos los resultados  de las polarizaciones VV y VH, adempas los umbrales mínimos 
 
-![arroz](../img/estadios_arroz.png)
+![arroz](https://github.com/HWMuyulema/RADAR/blob/master/img/estadios_arroz.png)
 
 
 
