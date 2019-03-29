@@ -29,7 +29,8 @@ entre las metas que se quieren lograr es la de estandarizar in situ  son los pro
 (arrroz no arroz, altura de la planta, campos,etc) selecioanndo los puntos para validar
 
 |  |  |
-| -- | --|
+| ID Pruducción/Inforamcion | Descripcion|
+|P1 Siembra del arroz /cosecha \n areas y mappas | Cultivos en el area (todo el año) \n progresos del cultivo (todos los meses surante la temporada de crecimiento |
 
 
 
