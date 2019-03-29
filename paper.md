@@ -31,8 +31,11 @@ entre las metas que se quieren lograr es la de estandarizar in situ  son los pro
 |  |  |
 | -- | -- |
 | ID Pruducción/Inforamcion | Descripcion|
-|P1 Siembra del arroz /cosecha \n areas y mappas | Cultivos en el area (todo el año) \n progresos del cultivo (todos los meses surante la temporada de crecimiento |
-
+|P1 Siembra del arroz /cosecha areas y mappas | Cultivos en el area (todo el año) progresos del cultivo (todos los meses surante la temporada de crecimiento |
+| CAlendario del cultivo / crecimiento del cultivo | tiempo de siembrea, dearrollo y cosecha; estatus del crecimiento, (y en lo posible el estado fenologico)   
+| Evalucaion de daños del cultivo | Deteccion de inundacioens y otros desastres de impacato en el area; agrometeorología, deteccion de areas impacatadad por sequias o intrucion de agua consalinidad,   deteccion de plagas  y enfermedaes)|
+| Información agrometeorológica | Anomalias agro meteorológicas (ej. precipitaciones, radiacion solar y alta o baja temperatura); animalias del cultivo por alertas tempranas, perspectivas de crecimiento, e impactos en el rendimiento futuro |
+| Rendimeinto / pEstiamcion deproducción * y pronostico | |
 
 
 # Bibliografia
