@@ -35,8 +35,12 @@ entre las metas que se quieren lograr es la de estandarizar in situ  son los pro
 | CAlendario del cultivo / crecimiento del cultivo | tiempo de siembrea, dearrollo y cosecha; estatus del crecimiento, (y en lo posible el estado fenologico)   
 | Evalucaion de daños del cultivo | Deteccion de inundacioens y otros desastres de impacato en el area; agrometeorología, deteccion de areas impacatadad por sequias o intrucion de agua consalinidad,   deteccion de plagas  y enfermedaes)|
 | Información agrometeorológica | Anomalias agro meteorológicas (ej. precipitaciones, radiacion solar y alta o baja temperatura); animalias del cultivo por alertas tempranas, perspectivas de crecimiento, e impactos en el rendimiento futuro |
-| Rendimeinto / pEstiamcion deproducción * y pronostico | |
+| Rendimeinto / producción Estimación* y pronostico | Estimación de modelos empiricos - estadísticos; simulación de modelos estimados de crecimientode cultivo |  [2,pag 7](http://asia-rice.org/files/2016_Asia-RiCE_Phase2_Work_Plan_v1.0.pdf)
 
-
+generaremos un algoritmo propuesto pro Toan et al. 1997 para evaluar la clasificación exacta y umbrales basados en el dato de la tierra de cada paracela enlas areas de cultivo, también conmparamos los resultados  de las polarizaciones VV y VH, adempas los umbrales mínimos 
 # Bibliografia
 [Analisis temporal 2004](https://www.dropbox.com/home/RADAR%20RICE?preview=10.1007%252FBF03030862.pdf)
+
+ASIA-RICE[2](http://asia-rice.org/files/2016_Asia-RiCE_Phase2_Work_Plan_v1.0.pdf)
+
+
